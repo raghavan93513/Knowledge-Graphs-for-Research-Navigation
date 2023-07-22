@@ -284,6 +284,7 @@ The top 5 impactful papers are:- <br/>
 5) quant-ph/9705052 <br/>
 <br/>
 <br/>
+For more information look at the Main Document (pdf)
 <br/>
 
 #### I would like to thank Balkan ID for giving me an opportunity to learn so much in the last few days :D
