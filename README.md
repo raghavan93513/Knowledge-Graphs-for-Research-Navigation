@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Knowledge graphs have emerged as powerful tools for representing and organizing information in a structured and interconnected manner. In this project, we aim to build a knowledge graph and a recommender system for research papers. 
+Knowledge graphs have emerged as powerful tools for representing and organizing information in a structured and interconnected manner. In this project, we aim to build a knowledge graph and a recommendation system for research papers.
 
 This project is divided into three parts:
 
@@ -41,6 +41,8 @@ This project is divided into three parts:
 
 ```pip install -r requirements.txt``` <br/>
 Run to install all of the Python modules and packages listed in your requirements.txt file.
+
+For the dataset, go to the link ```kaggle.com/datasets/raghavanvaidhyaraman/knowledge-graphs-for-research-navigation```
 
 ## How to Use
 
@@ -282,9 +284,3 @@ The top 5 impactful papers are:- <br/>
 3) 1011.0352 <br/>
 4) 1412.6980 <br/>
 5) quant-ph/9705052 <br/>
-<br/>
-<br/>
-For more information look at the Main Document (pdf)
-<br/>
-
-#### I would like to thank Balkan ID for giving me an opportunity to learn so much in the last few days :D
