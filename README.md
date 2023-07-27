@@ -285,6 +285,3 @@ The top 5 impactful papers are:- <br/>
 <br/>
 <br/>
 For more information look at the Main Document (pdf)
-<br/>
-
-#### I would like to thank Balkan ID for giving me an opportunity to learn so much in the last few days :D
